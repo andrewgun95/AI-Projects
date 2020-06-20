@@ -1,3 +1,3 @@
-Artificial Intelligent World
+## Artificial Intelligent World
 
-All concepts and methodologies example of AI
+### All concepts and methodologies example of AI
